@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-    package="com.jey_dev.lib.jeybasedlibrary">
+    package="com.jey_dev.lib.based">
 
     <application
         android:allowBackup="true"

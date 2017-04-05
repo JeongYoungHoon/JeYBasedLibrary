@@ -3,7 +3,7 @@ apply plugin: 'com.novoda.bintray-release'
 
 publish {
     userOrg = 'jeyechoo'
-    groupId = 'com.jey-dev'
+    groupId = 'com.jey_dev'
     artifactId = 'JeYBasedLibrary'
     publishVersion = '1.0.0'
     desc = ''
