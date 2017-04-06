@@ -15,7 +15,7 @@ public class JRecyclerAdapterInterface {
     public interface EndlessScrollListener {
         /**
          * Loads more data.
-         * @param position
+         * @param position is position.
          * @return true loads data actually, false otherwise.
          */
         boolean onLoadMore(int position);
