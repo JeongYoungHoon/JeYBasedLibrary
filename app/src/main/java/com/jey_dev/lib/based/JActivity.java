@@ -33,6 +33,7 @@ public class JActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         ctx=this;
         getValuesByIntent(getIntent());
+
     }
     @Override
     protected void attachBaseContext(Context newBase) {
@@ -45,7 +46,6 @@ public class JActivity extends AppCompatActivity {
      */
     @Nullable
     protected void getValuesByIntent(Intent intent){
-
     }
 
     /*
